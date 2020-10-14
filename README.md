@@ -50,10 +50,11 @@ I'm a software developer, and currently working at <a href="https://coloredcow.c
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/kuldeep3">
-<img align="center" alt="kuldeep Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kuldeep3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&stars=false" /></a>
-<a href="https://github.com/kuldeep3">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuldeep3&layout=compact&theme=radical" />
+<a href="https://github.com/kuldeep3/kuldeep3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep3&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/kuldeep3/kuldeep3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kuldeep's GitHub Stats" />
 </a>
 
 
