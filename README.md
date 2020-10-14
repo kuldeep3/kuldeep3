@@ -2,9 +2,6 @@
 
 I'm a software developer, and currently working at <a href="https://coloredcow.com">ColoredCow</a>. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@kuldeepupreti3).
 
 <!--## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -21,22 +18,20 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) --!>
 
-<!-- **kuldeep3/kuldeep3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://github.com/kuldeep3/kuldeep3/blob/master/code.gif?raw=true" width="400" height="300" />
+
+
+<!-- **kuldeep3/kuldeep3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Wordpress & React Native
+- 🌱 I’m currently learning Laravel
+- 💬 Ask me about anything, I am happy to help
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kuldeep3">
@@ -44,6 +39,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/kuldeep3">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuldeep3&layout=compact&theme=radical" />
 </a>
+
+<img src="https://github.com/kuldeep3/kuldeep3/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
 <!-- links to social media icons -->
 
