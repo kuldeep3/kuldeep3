@@ -1,6 +1,16 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a software developer, and currently working at <a href="https://coloredcow.com">ColoredCow</a>. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+![](https://visitor-badge.glitch.me/badge?page_id=kuldeep3.kuldeep3)
+
+I'm a software developer, and currently working at <a href="https://coloredcow.com">ColoredCow</a>.
+
+
+  #### 📫 How to reach me:   
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198798149288/)
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/arcenmities)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/kuldeep-upreti-3629ab145/)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/arcenmities)
+  <a href="mailto:kuldeep.upreti@coloredcow.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
 <!--## 🔧 Technologies & Tools
@@ -18,7 +28,6 @@ I'm a software developer, and currently working at <a href="https://coloredcow.c
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) --!>
 
-<img align="right" alt="GIF" src="https://github.com/kuldeep3/kuldeep3/blob/master/code.gif?raw=true" width="400" height="300" />
 
 
 <!-- **kuldeep3/kuldeep3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -32,10 +41,15 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kuldeep3">
-<img align="center" alt="kuldeep Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kuldeep3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="kuldeep Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kuldeep3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&stars=false" /></a>
 <a href="https://github.com/kuldeep3">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuldeep3&layout=compact&theme=radical" />
 </a>
