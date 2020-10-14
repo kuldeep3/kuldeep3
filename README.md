@@ -56,7 +56,6 @@ I'm a software developer, and currently working at <a href="https://coloredcow.c
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuldeep3&layout=compact&theme=radical" />
 </a>
 
-<img src="https://github.com/kuldeep3/kuldeep3/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
 <!-- links to social media icons -->
 
