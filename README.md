@@ -52,13 +52,13 @@ I'm a software developer, and currently working at <a href="https://coloredcow.c
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep3&hide=java,CSS,html&theme=vue" />
 </a>
 <a href="https://github.com/kuldeep3/kuldeep3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep3&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Kuldeep's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep3&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Kuldeep's GitHub Stats" />
 </a>
 
 
-[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3/github-readme-stats)
+[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3)
 
-[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3/github-readme-stats)
+[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3)
 
 
 <!-- links to social media icons -->
