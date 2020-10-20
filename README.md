@@ -49,7 +49,7 @@ I'm a software developer, and currently working at <a href="https://coloredcow.c
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kuldeep3/kuldeep3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep3&hide=java,CSS,html&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep3&hide=java,CSS,html&theme=vue&langs_count=8&layout=compact" />
 </a>
 <a href="https://github.com/kuldeep3/kuldeep3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep3&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Kuldeep's GitHub Stats" />
