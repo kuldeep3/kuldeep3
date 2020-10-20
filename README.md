@@ -56,9 +56,9 @@ I'm a software developer, and currently working at <a href="https://coloredcow.c
 </a>
 
 
-[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3)
+[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://wakatime.com/@arcenmities)
 
-[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3)
+[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://wakatime.com/@arcenmities)
 
 
 <!-- links to social media icons -->
