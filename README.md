@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=kuldeep3.kuldeep3)
 
 I'm a software developer, and currently working at <a href="https://coloredcow.com?utm_source=github&utm_medium=kuldeep3">ColoredCow</a>.
@@ -53,6 +54,11 @@ I'm a software developer, and currently working at <a href="https://coloredcow.c
 <a href="https://github.com/kuldeep3/kuldeep3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep3&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Kuldeep's GitHub Stats" />
 </a>
+
+
+[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3/github-readme-stats)
+
+[![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://github.com/kuldeep3/github-readme-stats)
 
 
 <!-- links to social media icons -->
