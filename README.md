@@ -55,7 +55,7 @@ I'm a software developer, and working at <a href="https://coloredcow.com?utm_sou
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep3&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Kuldeep's GitHub Stats" />
 </a>
 
-
+<!--
 [![Kuldeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arcenmities)](https://wakatime.com/@arcenmities)
 
 
