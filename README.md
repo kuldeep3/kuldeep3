@@ -47,6 +47,7 @@ I'm a software developer, and working at <a href="https://coloredcow.com?utm_sou
 
 - [Creating my first plugin](https://kuldeepupreti3.medium.com/creating-my-first-plugin-4f2633de0d62)
 - [No matter how many plans you do, shit happens!](https://kuldeepupreti3.medium.com/no-matter-how-many-plans-you-do-shit-happens-16ba012602d0)
+- [How to boost educational domain E-commerce sales through product package](https://coloredcow.com/how-to-boost-e-commerce-sales-through-packages/?utm_source=github&utm_medium=kuldeep3)
 
 
 
