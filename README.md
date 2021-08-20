@@ -16,15 +16,18 @@ I'm a software developer, and working at <a href="https://coloredcow.com?utm_sou
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=wordPress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-WooCommerce-informational?style=flat&logo=woocommerce&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-DotNet-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MsSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
+
 
 
 
