@@ -56,6 +56,11 @@ I'm a software developer, and working at <a href="https://coloredcow.com?utm_sou
 - [How to boost educational domain E-commerce sales through product package](https://coloredcow.com/how-to-boost-e-commerce-sales-through-packages/?utm_source=github&utm_medium=kuldeep3)
 
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuldeep3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ## &#x1f4c8; GitHub Stats
 
