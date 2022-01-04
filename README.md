@@ -56,20 +56,18 @@ I'm a software developer, and working at <a href="https://coloredcow.com?utm_sou
 - [How to boost educational domain E-commerce sales through product package](https://coloredcow.com/how-to-boost-e-commerce-sales-through-packages/?utm_source=github&utm_medium=kuldeep3)
 
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kuldeep3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/kuldeep3/kuldeep3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep3&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/kuldeep3/kuldeep3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kuldeep's GitHub Stats" />
-</a>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kuldeep3&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep3&theme=onedark&hide_border=true"/>
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=kuldeep3&row=4&theme=onedark&no-frame=true"/>
+    </a>
+</div>
 
 <!-- links to social media icons -->
 
