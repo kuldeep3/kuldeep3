@@ -69,6 +69,9 @@ I'm a software developer, and working at <a href="https://coloredcow.com?utm_sou
     </a>
 </div>
 
+
+[![Kuldeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=kuldeep3&theme=xcode)](https://git.io/kuldeep3) 
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
